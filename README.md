@@ -10,6 +10,8 @@ Automatically deletes proxychains ips and replaces them with new ones taken dire
 
 - proxychains 4.x
 
+- distutils
+
 ## run
 
 ```$ ./start.sh```\
